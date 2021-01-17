@@ -4,15 +4,28 @@ title: "Über Mich"
 permalink: /about/
 ---
 
-Hallo, mein Name ist Torben. :wave: 
+Hallo, mein Name ist Torben.
 
 ## Softwareentwickler
+...
 
 ## Drummer
+...
 
-## Politscher Aktivist
+## Politischer Aktivist
+...
+
+## Hobbysportler
+...
+
+## Gamer
+...
+
+## Rollenspieler
+...
 
 ## Katzenpapa ;) 
+...
 
 
 

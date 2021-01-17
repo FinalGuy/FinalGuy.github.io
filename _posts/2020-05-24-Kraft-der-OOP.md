@@ -1,8 +1,8 @@
 ---
 layout: "post"
 locale: "de-DE"
-title: "Objektorientierte Programmierung als bewusste Entscheidung"
-date: "2019-01-24 22:35:48 +0100"
+title: "Die Kraft der objektorientierten Programmierung"
+date: "2020-05-24 22:35:48 +0100"
 categories: programming
 tags: programming ddd java oop
 ---
