@@ -1,9 +1,14 @@
 ---
-layout: "post"
+#layout: "posts"
 locale: "de-DE"
 title: "Die Kraft der objektorientierten Programmierung"
+excerpt: "Modellierung fachlicher Konzepte als Klassen ist der Antrieb der objektorientierten Programmierung."
 date: "2020-05-24 22:35:48 +0100"
+last_modified_at: "2020-01-17"
 categories: programming
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/solar-flare.jpg
 tags: programming ddd java oop
 ---
 

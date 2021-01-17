@@ -1,0 +1,7 @@
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Über Mich"
+    url: /about/
+
+# https://mmistakes.github.io/minimal-mistakes/docs/navigation/
