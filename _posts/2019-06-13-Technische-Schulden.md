@@ -1,7 +1,7 @@
 ---
 title: "Technische Schulden" 
 date: "2019-06-13"
-excerpt: "Entwickler*innen und POs haben oft unterschiedliche Vorstellung von technischen Schulden."
+excerpt: "Entwickler*innen und POs haben oft unterschiedliche Vorstellungen von technischen Schulden."
 header:
   overlay_image: "/assets/images/technische-schulden.jpg"
 ---
